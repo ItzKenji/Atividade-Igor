@@ -1,0 +1,32 @@
+.fundo{
+
+   height: 600px;
+   background-color: rgb(25, 163, 133);
+   text-align: center;
+
+}
+
+.naveSlogan{
+ 
+   width: 400px;
+   margin-top: 60px;
+
+}
+
+.tituloSlogan{
+
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 54px;
+   margin-top: 37px;
+   color: white;
+
+}
+
+.descricao{
+
+   font-family: Georgia, 'Times New Roman', Times, sans-serif;
+   font-size: 17px;
+   margin-top: 40px;
+   color: rgba(255, 255, 255, 0.63);
+
+}
